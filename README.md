@@ -2,7 +2,7 @@
 - 👀 I’m interested in web dev / cloud 
 - 🌱 I’m currently learning web dev 
 - 💞️ I’m looking to collaborate on web 
-- 📫 How to reach me (https://linktr.ee/fenil_patel_04)
+- 📫 How to reach me  :=  https://linktr.ee/fenil_patel_04
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Open Minded 
 
