@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fenil</h1>
 <h3 align="center">A Enthusiastic Full Stack developer from India</h3>
-<img src="![68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033362f3132352f3430352f6f726967696e616c2f69676f722d667265697461732d6d6573612e6769663f313631363737393536](https://github.com/user-attachments/assets/5fe8e778-6bf0-4bf0-a17f-d8178c143c5e)" alt="title_img">
+![68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033362f3132352f3430352f6f726967696e616c2f69676f722d667265697461732d6d6573612e6769663f313631363737393536](https://github.com/user-attachments/assets/ffd8514f-fb3a-4bc1-b1dd-d7db468f92a3)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fenil-ptl&label=Profile%20views&color=0e75b6&style=flat" alt="fenil-ptl" /> </p>
 
