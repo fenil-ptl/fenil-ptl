@@ -6,9 +6,7 @@
 
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fenil-ptl&label=Profile%20views&color=0e75b6&style=flat" alt="fenil-ptl" /> </p>
-
+![Image](https://github.com/user-attachments/assets/740b41ba-67b0-4be1-b696-3b7d4a62abe2)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fenil-ptl" alt="fenil-ptl" /></a> </p>
 
 - 🌱 I’m currently learning **React**
