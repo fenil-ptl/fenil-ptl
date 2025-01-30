@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fenil</h1>
 <h3 align="center">A Enthusiastic Full Stack developer from India</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fdesktop-gif%2F942625269223%2F&psig=AOvVaw0OSSXsWiUN8Hp_kXhfvERg&ust=1738342901834000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiilpH2nYsDFQAAAAAdAAAAABAe" alt="Gif"> 
-![68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033362f3132352f3430352f6f726967696e616c2f69676f722d667265697461732d6d6573612e6769663f313631363737393536](https://github.com/user-attachments/assets/fcfdd8c9-e6cc-4518-b139-4ce47b1696ca)
+(https://github.com/user-attachments/assets/8c7c0df9-8b39-4873-a302-38bc4a5c785e)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fenil-ptl&label=Profile%20views&color=0e75b6&style=flat" alt="fenil-ptl" /> </p>
