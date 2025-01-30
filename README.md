@@ -2,7 +2,7 @@
 <h3 align="center">A Enthusiastic Full Stack developer from India</h3>
 
 ![Demo GIF](ASSETS/demo.gif)
-<img src="assets/demo.gif" width="500">
+<img src="assets/demo.gif" width="500" alt="gif">
 
 
 
