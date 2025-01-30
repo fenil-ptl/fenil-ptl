@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fenil</h1>
 <h3 align="center">A Enthusiastic Full Stack developer from India</h3>
 
-(https://github.com/user-attachments/assets/8c7c0df9-8b39-4873-a302-38bc4a5c785e)
+![Demo GIF](ASSETS/demo.gif)
+<img src="assets/demo.gif" width="500">
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fenil-ptl&label=Profile%20views&color=0e75b6&style=flat" alt="fenil-ptl" /> </p>
